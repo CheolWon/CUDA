@@ -1,4 +1,4 @@
-INC=-I/usr/local/cuda-10.0/include
+#INC=-I/usr/local/cuda-10.0/include
 NVCC=/usr/local/cuda-10.0/bin/nvcc
 NVCC_OPT=-std=c++11
 
